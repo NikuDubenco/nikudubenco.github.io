@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Data is knowledge and knowledge is power. Between data and power is the science, Data Science. 
+subtitle: Learn tools to juggle with data and to create knowledge 
 ---
 
 ## What I do
